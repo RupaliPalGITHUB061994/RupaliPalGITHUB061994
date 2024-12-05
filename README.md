@@ -2,7 +2,7 @@
 - 👀 I’m interested in **data analysis, sustainability, and leveraging data-driven insights to solve real-world problems**.
 - 🌱 I’m currently learning **data visualization techniques, and exploring more about data analytics**.
 - 💞️ I’m looking to collaborate on **data analysis projects, climate-related research, and open-source initiatives focusing on sustainability**.
-- 📫 How to reach me **via LinkedIn: [Your LinkedIn Profile Link] or email: [Your Email Address]**.
+- 📫 How to reach me **via LinkedIn: [https://www.linkedin.com/in/rupali-pal-datadriven/] or email: [palrupali4@gmail.com]**.
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **None**
 
